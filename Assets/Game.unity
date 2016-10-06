@@ -250,8 +250,8 @@ RectTransform:
   m_RootOrder: 3
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 197.5, y: -33}
-  m_SizeDelta: {x: 221, y: 126}
+  m_AnchoredPosition: {x: 217, y: -49}
+  m_SizeDelta: {x: 261, y: 158}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &390728697
 MonoBehaviour:
@@ -337,9 +337,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Guess
-
-    Lower'
+  m_Text: My number is higher
 --- !u!222 &390728699
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -466,8 +464,8 @@ RectTransform:
   m_RootOrder: 2
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -210, y: -37.75}
-  m_SizeDelta: {x: 230, y: 135.5}
+  m_AnchoredPosition: {x: -223, y: -49}
+  m_SizeDelta: {x: 255, y: 158}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1180177395
 MonoBehaviour:
@@ -553,9 +551,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Guess
-
-    Higher'
+  m_Text: My number is lower
 --- !u!222 &1180177397
 CanvasRenderer:
   m_ObjectHideFlags: 0

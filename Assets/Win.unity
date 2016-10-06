@@ -197,8 +197,8 @@ RectTransform:
   m_RootOrder: 1
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 59}
-  m_SizeDelta: {x: 568, y: 51}
+  m_AnchoredPosition: {x: 0, y: 51}
+  m_SizeDelta: {x: 568, y: 67}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &946132023
 MonoBehaviour:
@@ -232,7 +232,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: I have lost this time. I shall have my revenge!
+  m_Text: 'I have lost this time. I shall have my revenge!
+
+    Guess I wasn''t as smart as I thought!'
 --- !u!222 &946132024
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -580,8 +582,8 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 132}
-  m_SizeDelta: {x: 568, y: 49}
+  m_AnchoredPosition: {x: 0, y: 142}
+  m_SizeDelta: {x: 568, y: 68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1902355945
 MonoBehaviour:
@@ -595,7 +597,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 1, b: 0.37931037, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -604,11 +606,11 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
-    m_MaxSize: 40
+    m_MaxSize: 64
     m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
